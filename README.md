@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **APIs**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Cloud Tech**
 
 - 💬 Ask me about **React, Java, Python & NodeJS**
 
