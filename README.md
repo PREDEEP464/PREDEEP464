@@ -32,12 +32,12 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://pred-folio.vercel.app/" target="_blank">
+<a href="https://pred-folio.vercel.app/" target="_blank">
   <img align="center"
-       src="https://cdn.simpleicons.org/googlechrome/0A66C2"
+       src="https://img.icons8.com/color/48/domain.png"
        alt="portfolio"
        height="30"
-       width="40" />
+       width="40"/>
 </a>
 <a href="https://linkedin.com/in/predeepkumar-us" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="predeepkumar-u-s-4b012325a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/predeep_464" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="predeep_464" height="30" width="40" /></a>
