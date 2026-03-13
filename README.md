@@ -20,11 +20,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **APIs**
+- 🔭 A Full Stack Developer**
 
-- 🌱 I’m currently learning **Cloud Tech**
+- 🌱 Forever learning **New Tech**
 
-- 💬 Ask me about **React, Java, Python & NodeJS**
+- 💬 Ask me about **React, Java & NodeJS**
 
 - 📫 Reach me at **usppcbe@gmail.com**
 
@@ -32,8 +32,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/predeepkumar-u-s-4b012325a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="predeepkumar-u-s-4b012325a" height="30" width="40" /></a>
-<a href="https://instagram.com/predeep_us" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="predeep_us" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/predeepkumar-us" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="predeepkumar-u-s-4b012325a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/predeep_464" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="predeep_464" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/predeepkumar_us1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="predeepkumar_us1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/predeep_464" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="predeep_464" height="30" width="40" /></a>
