@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Predeep!/h1>
+<h1 align="center">Hi 👋, I'm Predeep!</h1>
 <h3 align="center">Passionate Full Stack Developer with
 innovative solutions for the modern web!</h3>
 <p align="center"> </p>
@@ -37,31 +37,21 @@ innovative solutions for the modern web!</h3>
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+  <table style="border:none; border-collapse:collapse;">
     <tr>
       <td style="border:none;">
         <a href="https://pred-folio.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/color/48/domain.png" height="30" width="40"/>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="30"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://linkedin.com/in/predeepkumar-us" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://www.leetcode.com/predeep_464" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-        </a>
-      </td>
-      <td style="border:none;">
-        <a href="https://www.hackerrank.com/predeepkumar_us1" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-        </a>
-      </td>
-      <td style="border:none;">
-        <a href="https://www.codechef.com/users/predeep_464" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="30"/>
         </a>
       </td>
     </tr>
