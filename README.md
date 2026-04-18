@@ -36,12 +36,39 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://pred-folio.vercel.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/domain.png" alt="portfolio" height="30" width="40"/></a><a href="https://linkedin.com/in/predeepkumar-us" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="predeepkumar-u-s-4b012325a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/predeep_464" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="predeep_464" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/predeepkumar_us1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="predeepkumar_us1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/predeep_464" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="predeep_464" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td style="border:none;">
+        <a href="https://pred-folio.vercel.app/" target="_blank">
+          <img src="https://img.icons8.com/color/48/domain.png" height="30" width="40"/>
+        </a>
+      </td>
+      <td style="border:none;">
+        <a href="https://linkedin.com/in/predeepkumar-us" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+        </a>
+      </td>
+      <td style="border:none;">
+        <a href="https://www.leetcode.com/predeep_464" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+        </a>
+      </td>
+      <td style="border:none;">
+        <a href="https://www.hackerrank.com/predeepkumar_us1" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+        </a>
+      </td>
+      <td style="border:none;">
+        <a href="https://www.codechef.com/users/predeep_464" target="_blank">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
