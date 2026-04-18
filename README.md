@@ -33,7 +33,6 @@ innovative solutions for the modern web!</h3>
 
 <br>
 
-
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
@@ -41,17 +40,17 @@ innovative solutions for the modern web!</h3>
     <tr>
       <td style="border:none;">
         <a href="https://pred-folio.vercel.app/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://linkedin.com/in/predeepkumar-us" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://www.leetcode.com/predeep_464" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="30"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
         </a>
       </td>
     </tr>
