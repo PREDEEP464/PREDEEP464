@@ -8,14 +8,14 @@
 </p>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border:none; border-collapse:collapse;">
     <tr>
-      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/></td>
-      <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/></td>
-      <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/></td>
-      <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
-      <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/></td>
-      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/></td>
+      <td style="border:none;"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/></td>
     </tr>
   </table>
 </div>
