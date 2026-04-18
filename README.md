@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/></td>
       <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/></td>
