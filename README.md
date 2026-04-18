@@ -1,7 +1,6 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<h1 align="center">Hi 👋, I'm Predeepkumar U S</h1>
-<h3 align="center">A Passionate Full Stack Developer & UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Predeep!/h1>
+<h3 align="center">Passionate Full Stack Developer with
+innovative solutions for the modern web!</h3>
 <p align="center"> </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=predeep464&label=Profile%20views&color=0e75b6&style=flat" alt="predeep" /> 
@@ -70,10 +69,6 @@
 </div>
 
 <br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I would love more connections 😊 </em>
 
 <br>
 <p align="right" > Created with 🧡 by <a href="https://pred-folio.vercel.app/">Predeep</a></p>
