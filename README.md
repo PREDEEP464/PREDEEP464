@@ -30,27 +30,26 @@ innovative solutions for the modern web!</h3>
 
 - 📫 Reach me at **usppcbe@gmail.com**
 
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <table style="border:none; border-collapse:collapse;">
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
     <tr>
       <td style="border:none;">
         <a href="https://pred-folio.vercel.app/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30"/>
+          <img src="https://img.icons8.com/color/48/domain.png" height="30" width="40"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://linkedin.com/in/predeepkumar-us" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
         </a>
       </td>
       <td style="border:none;">
         <a href="https://www.leetcode.com/predeep_464" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
         </a>
       </td>
     </tr>
